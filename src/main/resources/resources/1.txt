@@ -1,0 +1,1 @@
+classpath:/resources/1.txt
